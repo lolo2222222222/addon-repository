@@ -38,5 +38,5 @@
         "keyfile": "str",
         "require_ssl": "bool"
     },
-    "image": "lso133/addon-cups-modified:1.0.1"
+    "image": "lso133/addon-cups-modified"
 }
