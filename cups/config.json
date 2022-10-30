@@ -1,9 +1,9 @@
 {
     "name": "CUPS Print Server",
-    "version": "1.0.0-alpha.25",
+    "version": "1.0.0",
     "slug": "cups",
     "description": "A CUPS print server with Avahi installed",
-    "url": "https://github.com/ncarr/addon-repository",
+    "url": "https://github.com/lolo2222222222/addon-repository",
     "arch": [
         "armhf",
         "armv7",
@@ -38,5 +38,5 @@
         "keyfile": "str",
         "require_ssl": "bool"
     },
-    "image": "nicholascarr/{arch}-addon-cups"
+    "image": "lso133/addon-cups-modified"
 }
