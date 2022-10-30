@@ -1,4 +1,4 @@
-FROM homeassistant/aarch64-base-debian:latest
+FROM ghcr.io/home-assistant/aarch64-base:latest
 
 LABEL io.hass.version="1" io.hass.type="addon" io.hass.arch="armhf|aarch64|i386|amd64"
 
